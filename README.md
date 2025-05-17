@@ -14,6 +14,13 @@ A private, script-driven tool for interacting with supported DRM-protected platf
 
 ---
 
+## 📦 Download
+
+📁 You can download the full project from our self-hosted Git instance:  
+🔗 [https://git.drmlab.io/Mike/Vinetrimmer/src/branch/main/DRMLab](https://git.drmlab.io/Mike/Vinetrimmer/src/branch/main/DRMLab)
+
+---
+
 ## ⚙️ Requirements
 
 - Python 3.9+
